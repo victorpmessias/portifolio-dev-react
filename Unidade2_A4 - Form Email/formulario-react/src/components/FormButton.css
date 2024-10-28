@@ -1,0 +1,16 @@
+.formBtn {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    padding: 5px 30px;
+    box-sizing: border-box;
+    height: 40px;
+}
+
+.formBtn:hover {
+    background-color: #0056b3;
+}
